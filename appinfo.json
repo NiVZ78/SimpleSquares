@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "NiVZ",
+    "longName": "SIMPLE SQUARES",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "SIMPLE SQUARES",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "392e6abc-54de-4648-a720-496fe921d60b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
